@@ -1,0 +1,6 @@
+#!/home/qsf/dev/go/bin/anko
+
+var fmt = import("fmt")
+fmt.Println(`
+Hello, World!!
+`)
